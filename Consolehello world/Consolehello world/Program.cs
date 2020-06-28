@@ -125,3 +125,17 @@ int resta (int num1,int num2,int r){
 
     return r;
 }
+
+int dividir (int num1,int num2,int r){
+
+    r=num1/num2;
+
+    return r;
+}
+
+int multiplicar (int num1,int num2,int r){
+
+    r=num1*num2;
+
+    return r;
+}
