@@ -16,8 +16,7 @@ namespace Consolehello_world
             ndm = (cd * 1024) / 144;
             Console.Write("Los microdiscos necesarios son: " +ndm.ToString());
             Console.Read();
-            //sos un crack Erick.
-            //Haceme un hijo :).
+           
         }
     }
 }
