@@ -112,3 +112,16 @@ int main()
 
     return 0;
 }
+int suma (int num1,int num2,int r){
+
+    r=num1+num2;
+
+    return r;
+}
+
+int resta (int num1,int num2,int r){
+
+    r=num1-num2;
+
+    return r;
+}
