@@ -1,36 +1,4 @@
 
-Meet
-Iniciar una reunión
-Unirte a una reunión
-Chat
-
-11 de 199
-6C-CERVELLINI-LABPROGRA
-Recibidos
-x
-
-Ignacio Agustín Cervellini <aicervellini@gmail.com>
-Adjuntos
-30 abr. 2020 23:42
-para profe.leila.coronel, horaciov714
-
-
-
---
-Agustin Cervellini 
-2 archivos adjuntos
-
-Horacio Villa
-1 may. 2020 09:15
-Que tal: Recorda que se deben cambiar los nombres de los "archivos" por el formato que yo pedí (apellido+nºtp+nºejercicio) El jue., 30 abr. 2020 a las 23:42, Ig
-
-Leila Coronel <profe.leila.coronel@gmail.com>
-1 may. 2020 12:10
-para mí
-
-Recibido! Muchas gracias!
-
-
 #include <stdio.h>
 #include <stdlib.h>
 
